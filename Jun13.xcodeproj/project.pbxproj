@@ -24,6 +24,7 @@
 		3AF606C2176634E6006E8BA6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3AF6069A176634E5006E8BA6 /* Foundation.framework */; };
 		3AF606CA176634E6006E8BA6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3AF606C8176634E6006E8BA6 /* InfoPlist.strings */; };
 		3AF606CD176634E6006E8BA6 /* Jun13Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AF606CC176634E6006E8BA6 /* Jun13Tests.m */; };
+		3AF606D717664802006E8BA6 /* Apple_gray_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AF606D617664802006E8BA6 /* Apple_gray_logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		3AF606C9176634E6006E8BA6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3AF606CB176634E6006E8BA6 /* Jun13Tests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Jun13Tests.h; sourceTree = "<group>"; };
 		3AF606CC176634E6006E8BA6 /* Jun13Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Jun13Tests.m; sourceTree = "<group>"; };
+		3AF606D617664802006E8BA6 /* Apple_gray_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Apple_gray_logo.png; path = ../../../../Pictures/Apple_gray_logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 				3AF606A4176634E5006E8BA6 /* main.m */,
 				3AF606A6176634E5006E8BA6 /* Jun13-Prefix.pch */,
 				3AF606AA176634E5006E8BA6 /* Default.png */,
+				3AF606D617664802006E8BA6 /* Apple_gray_logo.png */,
 				3AF606AC176634E5006E8BA6 /* Default@2x.png */,
 				3AF606AE176634E5006E8BA6 /* Default-568h@2x.png */,
 			);
@@ -240,6 +243,7 @@
 				3AF606AF176634E5006E8BA6 /* Default-568h@2x.png in Resources */,
 				3AF606B2176634E6006E8BA6 /* MainStoryboard_iPhone.storyboard in Resources */,
 				3AF606B5176634E6006E8BA6 /* MainStoryboard_iPad.storyboard in Resources */,
+				3AF606D717664802006E8BA6 /* Apple_gray_logo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
